@@ -27,32 +27,32 @@ Task Directions:
 
     As this is the welcome page, you’ll want it to appear when the main site (“http://127.0.0.1:8000/”) loads. For this:
 
-  a. Create a "urls.py" file in the <app> folder.
+    a. Create a "urls.py" file in the <app> folder.
 
-  b. Specify the path in <app>/urls.py to connect the route corresponding to “http://127.0.0.1:8000/” with the view specified by <app>/views.py. Ensure you import the necessary packages and specify the app name. Save the file.
+    b. Specify the path in <app>/urls.py to connect the route corresponding to “http://127.0.0.1:8000/” with the view specified by <app>/views.py. Ensure you import the necessary packages and specify the app name. Save the file.
 
-  c. Update the "urls.py" file in your main recipe project by registering the view to "urlpatterns". Ensure you import the necessary packages to include the app. Save the file.
+    c. Update the "urls.py" file in your main recipe project by registering the view to "urlpatterns". Ensure you import the necessary packages to include the app. Save the file.
 
   - 5.- Run Server:
 
-  If not done already, toggle the terminal ON and do the following:
+    If not done already, toggle the terminal ON and do the following:
 
-  a. Navigate to "A2_Recipe_App/src".
+    a. Navigate to "A2_Recipe_App/src".
 
-  b. Activate the virtual environment: "a2-ve-recipeapp".
+    b. Activate the virtual environment: "a2-ve-recipeapp".
 
-  c. Run the server.
+    c. Run the server.
 
   - 6.- Load site in browser:
 
-  Copy the link to your app and paste it into the browser. You should see your custom welcome page. Take a screenshot of the homepage and save it as “welcome.jpg”.
+    Copy the link to your app and paste it into the browser. You should see your custom welcome page. Take a screenshot of the homepage and save it as “welcome.jpg”.
 
   - 7.- Upload screenshot to GitHub:
 
-  a. Create a folder named “Exercise 2.4” within your “Achievement 2” folder on GitHub.
+    a. Create a folder named “Exercise 2.4” within your “Achievement 2” folder on GitHub.
 
-  b. Create a “screenshots” folder within “Exercise 2.4” and upload the “welcome.jpg” screenshot to it.
+    b. Create a “screenshots” folder within “Exercise 2.4” and upload the “welcome.jpg” screenshot to it.
 
   - 8.- Upload code to GitHub:
 
-  Push your code in the "src" folder to the recipe-app GitHub repository that you’ve already created (in the last Exercise).
+    Push your code in the "src" folder to the recipe-app GitHub repository that you’ve already created (in the last Exercise).
