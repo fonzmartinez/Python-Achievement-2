@@ -11,6 +11,9 @@ Task Directions:
 
   - 3.Create template:  
     a. Create a templates folder under <app> (the app name will be the app that you chose).
+
     b. Create a folder named <app> under the newly created templates folder.
+
     c. Create an HTML file to define your template. Name the file recipes_home.html. Be careful to specify the correct template path in the <app>/views.py file.
+    
     d. The HTML file is currently empty. Design your welcome page using your desired elements and HTML blocks in the recipes_home.html file. Save it.
