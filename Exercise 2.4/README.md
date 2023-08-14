@@ -7,11 +7,11 @@ Task Directions:
 
   - 1.-Load Project: 
   
-  In VSCode, open the A2_Recipe_App/src folder.
+    In VSCode, open the A2_Recipe_App/src folder.
 
   - 2.-Create the view: 
   
-  Pick the app where you want to create the view. Navigate to <app>/views.py and define the view. Save the file.
+    Pick the app where you want to create the view. Navigate to <app>/views.py and define the view. Save the file.
 
   - 3.-Create template:  
     a. Create a templates folder under <app> (the app name will be the app that you chose).
