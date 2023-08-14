@@ -3,6 +3,7 @@
 Task Requirement: 
   - A custom welcome page is a good first step for any application, so that’s what you’ll focus on in this task. Feel free to be creative with your HTML knowledge when creating your custom welcome page. The task directions are as follows:
 
+
 Task Directions: 
 
   - 1.- Load Project: 
