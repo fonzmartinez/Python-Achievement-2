@@ -8,22 +8,31 @@ Task Directions:
   - 1.- Update your models (if needed).
 
     First, take some time to think about your model(s) again and update them to ensure all relevant attributes are there. Once you start entering the data and creating templates, changes will be more costly in terms of effort.
+
     a. Create an empty document (named “Task-2.5” or similar), mention your models/tables from Exercise 2.3, and specify if (and why) you’re changing any attributes. This will include the addition or deletion of attributes, updates in data type, moving attributes from one table to another, or any other reason that you consider important.
+
     b. Make necessary changes in the models.py files of the affected apps.
+
     c. Toggle the terminal ON in VSCode.
+
     d. Navigate to A2_Recipe_App/src.
+
     e. Activate virtual environment: a2-ve-recipeapp.
+
     f. Run makemigrations, migrate, and runserver.
 
   - 2.- Add records (for at least five reciptes).
 
     a. Prepare the information that’ll go into your database. Download any images and save them on your computer.
+
     b. Proceed to the Django admin panel in the browser at “http://127.0.0.1:8000/admin/” and make the corresponding entries.
 
   - 3.- Develop a welcome page for your application.
 
     a. Take inspiration from existing recipe applications. Create a section called “frontend inspirations” in your journal.doc document and add links to your favorite recipe applications (three at most). Take screenshots and write a few lines on what you like most about them.
+
     b. Try to reproduce the look and feel of your favorite application in your own application. Feel free to mix and match.
+
     c. Take a screenshot of your new homepage and save it as welcome.jpg.
   
   - 4.- Generate a recipes list.
@@ -45,7 +54,9 @@ Task Directions:
   - 8.- Upload your document and screenshots to Github.
 
     a. Create a folder named Exercise 2.5 in your Achievement 2 folder on GitHub.
+
     b. Upload the document Task-2.5.
+    
     c. Create a Screenshots folder under Exercise 2.5 and upload all the screenshots to it.
 
   - 9.- Upload your code to Github.
