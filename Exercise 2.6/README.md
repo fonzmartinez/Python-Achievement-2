@@ -9,15 +9,15 @@ Task Directions:
 
     Create a login feature for your application. The login page should be accessible from your homepage via the link directly at “http://127.0.0.1:8000/login/”. To achieve this, you need to:
 
-  a. Create a login view.
+    a. Create a login view.
 
-  b. Create a login template.
+    b. Create a login template.
 
-  c. Register a view and map URL.
+    c. Register a view and map URL.
 
-  d. Provide a clickable login link or button on the homepage that routes to the authentication form.
+    d. Provide a clickable login link or button on the homepage that routes to the authentication form.
 
-  e. Identify which page you want to protect via authentication and redirect the user to that page after a successful login.
+    e. Identify which page you want to protect via authentication and redirect the user to that page after a successful login.
 
   - 2.- Protect views:
 
@@ -37,7 +37,7 @@ Task Directions:
 
 - 4.- Run server and capture output:
 
-  1. Toggle the terminal ON in VSCode and follow the steps to run the server:
+  - Toggle the terminal ON in VSCode and follow the steps to run the server:
 
     a. Navigate to A2_Recipe_App/src.
 
@@ -45,7 +45,7 @@ Task Directions:
 
     c. Execute runserver.
 
-  2. Head to the browser and follow a typical user journey:
+  - Head to the browser and follow a typical user journey:
 
     a. User lands at homepage.
 
